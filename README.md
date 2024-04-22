@@ -39,11 +39,8 @@ ChatterBox AI is a modern conversational AI application built with React and Tai
 
 ## Contributing
 
-Contributions are welcome! Please refer to the [Contribution Guidelines](CONTRIBUTING.md) for detailed information on how to contribute to this project.
+Contributions are welcome! 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
